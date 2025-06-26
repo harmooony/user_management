@@ -1,10 +1,10 @@
-# 🚀 User Management API (GraphQL)
+# User Management API (GraphQL)
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Ariadne](https://img.shields.io/badge/Ariadne-GraphQL-orange)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-lightgrey)
-![JWT](https://img.shields.io/badge/JWT-Auth-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+!Python
+!Ariadne
+!SQLAlchemy
+!JWT
+!License
 
 Полнофункциональное GraphQL API для управления пользователями с аутентификацией JWT.
 
