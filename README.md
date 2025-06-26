@@ -1,10 +1,10 @@
 # User Management API (GraphQL)
 
-!Python
-!Ariadne
-!SQLAlchemy
-!JWT
-!License
+Python
+Ariadne
+SQLAlchemy
+JWT
+License
 
 Полнофункциональное GraphQL API для управления пользователями с аутентификацией JWT.
 
