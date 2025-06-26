@@ -1,0 +1,6 @@
+ariadne
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+passlib
+python-dotenv
